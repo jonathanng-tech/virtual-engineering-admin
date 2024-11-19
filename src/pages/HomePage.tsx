@@ -11,7 +11,7 @@ const HomePage: React.FC = () => {
     <MainLayout>
       <div>
         <center>
-          <h3>WELCOM TO VIRTUAL ENGINEERING ADMIN!</h3>
+          <h3>WELCOME TO VIRTUAL ENGINEERING ADMIN!</h3>
         </center>
       </div>
     </MainLayout>
