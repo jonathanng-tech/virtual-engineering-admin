@@ -11,10 +11,7 @@ const HomePage: React.FC = () => {
     <MainLayout>
       <div>
         <center>
-          <h3>WELCOM TO VIRTUAL ENGINEERING LANDING PAGE!</h3>
-        </center>
-        <center>
-          <a href="/grill-king">GO TO GRILL KING!</a>
+          <h3>WELCOM TO VIRTUAL ENGINEERING ADMIN!</h3>
         </center>
       </div>
     </MainLayout>

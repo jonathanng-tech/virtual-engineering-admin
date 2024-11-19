@@ -1,9 +1,8 @@
 import React, { RefObject } from 'react';
 
-import { Header } from './components';
-
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import Header from '../common/Header';
 
 interface MainLayoutProps {
   children: React.ReactNode;
