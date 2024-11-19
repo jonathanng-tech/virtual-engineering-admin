@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.169" height="25.025" viewBox="0 0 18.169 25.025">
+  <g id="oven" transform="translate(-70.14)">
+    <g id="Group_89591" data-name="Group 89591" transform="translate(70.14 4.279)">
+      <g id="Group_89590" data-name="Group 89590" transform="translate(0)">
+        <path id="Path_161004" data-name="Path 161004" d="M81.412,87.608v-.064H77.037v.064a9.1,9.1,0,0,0-6.9,8.817v9.191a.733.733,0,0,0,.733.733h2.266l-.748.656a.733.733,0,0,0,.966,1.1l2.007-1.759H87.576a.733.733,0,0,0,.733-.733V96.426A9.1,9.1,0,0,0,81.412,87.608Zm2.158,15.374H79.206l.5-.442h.061a.733.733,0,0,0,0-1.466H78.389a.732.732,0,0,0-.579,1.182l-.829.726h-2.1a.489.489,0,1,1,0-.978h.841v-3.29a.556.556,0,0,1,.556-.556h5.9a.556.556,0,0,1,.556.556V102h.841a.489.489,0,1,1,0,.978Z" transform="translate(-70.14 -87.544)"/>
+      </g>
+    </g>
+    <g id="Group_89593" data-name="Group 89593" transform="translate(77.037)">
+      <g id="Group_89592" data-name="Group 89592" transform="translate(0)">
+        <path id="Path_161005" data-name="Path 161005" d="M214.885,0h-2.909a.733.733,0,0,0-.733.733V3.3h4.375V.733A.733.733,0,0,0,214.885,0Z" transform="translate(-211.243)"/>
+      </g>
+    </g>
+  </g>
+</svg>
